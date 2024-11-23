@@ -17,5 +17,6 @@ This project focuses on creating an interactive Tableau dashboard to analyze Swi
 2. Design a dashboard with KPIs, visualizations, and filters.
 3. Use insights to optimize digital strategies and improve conversions.
 
-![Alt text](Dashboard_Website traffic and conversion analysis.png)
+![Website Traffic and Conversion Analysis Dashboard](Dashboard_Website%20traffic%20and%20conversion%20analysis.png)
+
 
